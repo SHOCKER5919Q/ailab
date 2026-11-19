@@ -1,0 +1,7 @@
+# Python packages needed by 1.py - 8.py
+#
+# All modules used (random, itertools, math, collections, heapq) are part of
+# Python's standard library, so there is nothing to download right now.
+#
+# If a program ever needs a third-party module, add its name on its own line
+# below (e.g. numpy) and run install.bat again.
